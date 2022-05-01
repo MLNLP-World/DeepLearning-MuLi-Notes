@@ -154,14 +154,6 @@
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
 
-## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
-感谢以下同学对本项目进行组织与指导
-
-<a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
-<a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
-<a href="http://xcfeng.net/">  <img src="./imgs/profile/XiaChong_Feng.png"  width="80" /></a> 
-<a href="https://andy-border.github.io/">  <img src="./imgs/profile/jianan.png"  width="80" /></a> 
-
 ## <img src="./imgs/icon/heart.png" width="25" /> 贡献者
 感谢以下同学对本项目的支持与贡献
 
