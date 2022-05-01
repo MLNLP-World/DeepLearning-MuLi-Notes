@@ -156,6 +156,7 @@
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 贡献者
 感谢以下同学对本项目的组织
+
 <a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
 
