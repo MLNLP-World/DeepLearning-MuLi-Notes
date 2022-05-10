@@ -2,7 +2,8 @@
 <p align="center">
 <h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />《动手学习深度学习》</h1>
 </p>
-[项目动机](#项目动机),[课程简介](#课程简介), [课程资源](#课程资源), [教材目录](#课程目录), [笔记](#笔记), [文件夹说明](#文件夹说明), [组织者](#组织者), [贡献者](#贡献者)
+
+[项目动机](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#项目动机),[课程简介](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程简介), [课程资源](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程资源), [教材目录](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程目录), [笔记](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#笔记), [文件夹说明](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#文件夹说明), [组织者](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#组织者), [贡献者](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#贡献者)
 
 
 ---
