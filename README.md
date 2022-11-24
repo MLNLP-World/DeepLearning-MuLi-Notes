@@ -2,8 +2,42 @@
 <p align="center">
 <h1 align="center"> <img src="./imgs/icon/ai.png" width="30" />《动手学习深度学习》</h1>
 </p>
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+   	<a href="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/DeepLearning-MuLi-Notes" />
+  	</a>
+  	<a href="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Paper-Picture-Writing-Code?color=FF8000" />
+  	</a>
+    <a href="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/DeepLearning-MuLi-Notes?color=0088ff"/>
+    </a>
+    <br />
+</p>
 
-[项目动机](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#项目动机),[课程简介](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程简介), [课程资源](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程资源), [教材目录](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#课程目录), [笔记](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#笔记), [文件夹说明](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#文件夹说明), [组织者](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#组织者), [贡献者](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes/blob/main/README.md/#贡献者)
+<div align="center">
+<p align="center">
+  <a href="#项目动机">项目动机</a>/
+  <a href="#课程简介">课程简介</a>/
+  <a href="#课程资源">课程资源</a>/
+  <a href="#教材目录">教材目录</a>/
+  <a href="#笔记">笔记</a>/
+  <a href="#文件夹说明">文件夹说明</a>/
+  <a href="#组织者">组织者</a>/
+  <a href="#贡献者">贡献者</a>
+</p>
+</div>
+
+
 
 
 ---
