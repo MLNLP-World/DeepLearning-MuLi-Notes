@@ -16,7 +16,7 @@
        <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/DeepLearning-MuLi-Notes" />
   	</a>
   	<a href="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/network/members">
-       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Paper-Picture-Writing-Code?color=FF8000" />
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/DeepLearning-MuLi-Notes?color=FF8000" />
   	</a>
     <a href="https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/DeepLearning-MuLi-Notes?color=0088ff"/>
